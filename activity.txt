@@ -1,0 +1,9 @@
+model name 
+
+
+phi-3.5- mini - instruct
+
+
+hi how are u??
+
+hi im phi created by microsoft
